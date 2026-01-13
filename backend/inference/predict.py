@@ -20,8 +20,8 @@ from typing import List, Union, Tuple
 import joblib
 import numpy as np
 
-from src.preprocessing.clean_text import batch_clean, clean_text
-from train.train_sentiment import LABEL_MAP, INVERSE_LABEL_MAP, MODEL_DIR
+from ..src.preprocessing.clean_text import batch_clean, clean_text
+from ..train.train_sentiment import LABEL_MAP, INVERSE_LABEL_MAP, MODEL_DIR
 
 
 def load_artifacts() -> Tuple[any, any]:

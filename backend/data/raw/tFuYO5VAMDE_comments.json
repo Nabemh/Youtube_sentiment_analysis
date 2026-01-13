@@ -1,0 +1,1702 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "99VHFSvAP9B8oLoKMLzNzqJfIAs",
+    "id": "UgzbO9nLS0JvdM5cN7d4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "hazPyXZ3UMjG17NjuhwwW6KNb0g",
+        "id": "UgzbO9nLS0JvdM5cN7d4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "724whp is well over 825hp at the crankshaft",
+          "textOriginal": "724whp is well over 825hp at the crankshaft",
+          "authorDisplayName": "@That1Dude44",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/45vnUCMZWrqg6xM0mPmaNRdc9ImYygnzV3_-szHtEHhOk6KDBj6Hm3wPY5xyVxyfAEixr9ilvcU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@That1Dude44",
+          "authorChannelId": {
+            "value": "UCZWG9kWivcJorx7Vw_3GrSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-12T01:09:05Z",
+          "updatedAt": "2026-01-12T01:09:05Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "HwpuhbQlaMe4tpDLdNci7pHEA8o",
+    "id": "UgyRXxEQVROm4Rk-HS14AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "EvwZUak6khWKr8nI4YW0GjtpeLE",
+        "id": "UgyRXxEQVROm4Rk-HS14AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "We need a drag race with this new turbo s",
+          "textOriginal": "We need a drag race with this new turbo s",
+          "authorDisplayName": "@alenibricic9899",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mZOk3F5jWIzIZ4v-o1-HwPeqp1mYY7ZevTDRJCl-I=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@alenibricic9899",
+          "authorChannelId": {
+            "value": "UC0IiWzIqyxdDuPIU7RFyLGQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-10T17:38:44Z",
+          "updatedAt": "2026-01-10T17:38:44Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "QT_4RwMTg9ejWs9G7BrTMaEDQV8",
+    "id": "Ugyl8jYBXGCBwHLwW6h4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "sHsMl5d3o3ttDbB3ZR_mE8Kd_74",
+        "id": "Ugyl8jYBXGCBwHLwW6h4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "What a weapon. I want one.",
+          "textOriginal": "What a weapon. I want one.",
+          "authorDisplayName": "@russellbosnjakovic2286",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mM8ArQWLu6Nc1HoCYT25LEKSzHkAh4kVeKXbQq3rAjNG6rswgPfOFD7NiUo7nvjUqFyg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@russellbosnjakovic2286",
+          "authorChannelId": {
+            "value": "UC7SqVHuWxF9D5VV-vt8JX5Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-10T12:05:15Z",
+          "updatedAt": "2026-01-10T12:05:15Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "DfKAjAr2a3J4UUYcl2Q3M0DyY6E",
+    "id": "Ugz250osegZegwiMrLB4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "nU6SCNiI7W_ZpMONlhNKwieZvRc",
+        "id": "Ugz250osegZegwiMrLB4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Flight still at bottom of the screen and only says go to gate = plenty of time",
+          "textOriginal": "Flight still at bottom of the screen and only says go to gate = plenty of time",
+          "authorDisplayName": "@blckbldng",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lzs87VcsQaheqBLVpSYzWs9QdB7MAK1FkLIS__vwV0_Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@blckbldng",
+          "authorChannelId": {
+            "value": "UCuABC16BEAc8ISYUbCebNlw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-10T08:02:49Z",
+          "updatedAt": "2026-01-10T08:02:49Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "wRsjauTC9bM3ePdgR3QONQGtb-c",
+    "id": "UgzS3-FHMhd5RIHrhXN4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "1TWW2Re3dnUeypMHrMqhj8zezJ4",
+        "id": "UgzS3-FHMhd5RIHrhXN4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Take it to ES Motors and get 1200 BHP out of it, then nothing will touch it not even the GT3",
+          "textOriginal": "Take it to ES Motors and get 1200 BHP out of it, then nothing will touch it not even the GT3",
+          "authorDisplayName": "@rgthomson1",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nzLFoxOmd2pYIB4qAgqOune2UTTXrPbPc0tSVtuHyISKM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@rgthomson1",
+          "authorChannelId": {
+            "value": "UCwyy6bgkhZM2yuMyhQ1XB0g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-09T19:12:06Z",
+          "updatedAt": "2026-01-09T19:12:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "BwrGaV9EovcUP9yYzIJbgS--K1I",
+    "id": "UgxtoX9141tIPVmDZS14AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "fMnWsJjmeuPtHjWKcnN4Wt_RVKQ",
+        "id": "UgxtoX9141tIPVmDZS14AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Sexiest car on earth!",
+          "textOriginal": "Sexiest car on earth!",
+          "authorDisplayName": "@johnbeeler25",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ncWjF6ELdgcuIjcujQyuEZTAeeGPZ80mMWsDh6pOqDtSqYtvfyOWPvp61gMoyzrzthrw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@johnbeeler25",
+          "authorChannelId": {
+            "value": "UCm9eVvbWWai3R3g_MA6MMOw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-08T23:13:43Z",
+          "updatedAt": "2026-01-08T23:13:43Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "6v7a1KoJpfXwg00MrumgcdcpJTA",
+    "id": "UgxkOtSgqJEN4QYGcTB4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_haxC7u2k4FjWFeeMIrt0ipv9tw",
+        "id": "UgxkOtSgqJEN4QYGcTB4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Porsche are Spinal Tap fans, they’re not going to have a car produce 710, they turned it up to 711. Dialling codes, my arse 😜",
+          "textOriginal": "Porsche are Spinal Tap fans, they’re not going to have a car produce 710, they turned it up to 711. Dialling codes, my arse 😜",
+          "authorDisplayName": "@markstewart7559",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_klOENSpVMGidCvY-U8MXdDWwS79lFxc13ADh5smlo=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@markstewart7559",
+          "authorChannelId": {
+            "value": "UCDK089xrvPRSTUIAJ2-spHA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-07T17:13:07Z",
+          "updatedAt": "2026-01-07T17:13:07Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "kTl7i6jzBtGpL31N0sbrNFZnV-M",
+    "id": "UgzbEZqAT0qIdp7UfFx4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "nh773lezQemdOtUXLcqwOAQulTU",
+        "id": "UgzbEZqAT0qIdp7UfFx4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Por-sha",
+          "textOriginal": "Por-sha",
+          "authorDisplayName": "@mrug8600",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kZnPowqH4FatYd9CXJX4-zjM0yoaQ4-71sY5TJNseZEfNF=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@mrug8600",
+          "authorChannelId": {
+            "value": "UClBrQMpY1ZXRYj14poh6dEA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-06T22:41:04Z",
+          "updatedAt": "2026-01-06T22:41:04Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "OBe3_T3t-b1HNvOwkVZTc8q76p0",
+    "id": "UgxU5lYzkoKM7tjja_54AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "Fa3mpPPGpEfxwtnVmbwKpXxhFQs",
+        "id": "UgxU5lYzkoKM7tjja_54AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Matt if you pull out of those junctions on the Autobahn and nobody lets you in you are obligated to stop at the end of the lane and no I am not kidding",
+          "textOriginal": "Matt if you pull out of those junctions on the Autobahn and nobody lets you in you are obligated to stop at the end of the lane and no I am not kidding",
+          "authorDisplayName": "@hannesminnich7271",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n8q7sWvzGjo1zjVCNsEEHfWOqawPWjq_uzs6i80kA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@hannesminnich7271",
+          "authorChannelId": {
+            "value": "UCsUIpAOI2aIQY0WtfJ-zaWg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-06T17:50:51Z",
+          "updatedAt": "2026-01-06T17:50:51Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sh3HZ0I9ziIKIF_Zl9RahwY5Ffw",
+    "id": "UgzfFzEG7onz-SBiwIZ4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "il1FD_OGVbYyxs3iavTNyJHpgoY",
+        "id": "UgzfFzEG7onz-SBiwIZ4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "‏‪6:04‬‏  WTF is that , Enough greed",
+          "textOriginal": "‏‪6:04‬‏  WTF is that , Enough greed",
+          "authorDisplayName": "@Mohammed-053",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/lebh_aW9upDFY29LAa54GyvHbwDTPZjE90r_kAUa5bi03w4C70sIkH7DDzBh0DG12UT1Eyhk=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Mohammed-053",
+          "authorChannelId": {
+            "value": "UCxZH9Xq5SDS9xtvrfn0oj8Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-05T12:47:24Z",
+          "updatedAt": "2026-01-05T12:47:24Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "S3pizg7DuWcrYmC-GGNX1-H7an8",
+    "id": "UgwlyWs8O4ycpXuOtc94AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "UssZU8dYQ2AmhbnXTQYG1J7-NDw",
+        "id": "UgwlyWs8O4ycpXuOtc94AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Yeah, I agree the whole point of the Porsche was to stick the key on the left side and turn it to the right and here it fire up. There’s just nothing like that. It’s amazing. It’s so cool feeling and to replace that with a stupid plastic button it’s just not cool to do that. That’s an iconic thing. Don’t mess with it.",
+          "textOriginal": "Yeah, I agree the whole point of the Porsche was to stick the key on the left side and turn it to the right and here it fire up. There’s just nothing like that. It’s amazing. It’s so cool feeling and to replace that with a stupid plastic button it’s just not cool to do that. That’s an iconic thing. Don’t mess with it.",
+          "authorDisplayName": "@AlexDean-hq1ny",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_meYAh6NPkc3qZ9RQbztfozX2jknUqc69hcasQTLZa7CCWY6MHmzRI1I6I59gYFhEiQXA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@AlexDean-hq1ny",
+          "authorChannelId": {
+            "value": "UCo4ygRPpqVwXQHJFq1bF2PA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-04T08:55:42Z",
+          "updatedAt": "2026-01-04T08:55:42Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "fM_KIqLleLDHmwO7xW-0MaD9qWM",
+    "id": "UgxVEqKFB9NcLhugjyF4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "9o0tvCB7r7QyMZr6RNYEHWbSrAE",
+        "id": "UgxVEqKFB9NcLhugjyF4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Porache design is lazy",
+          "textOriginal": "Porache design is lazy",
+          "authorDisplayName": "@RajeshSukha",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/8CoDL4Lz8zQmssSy_o4DFu_UGQCzxvlqiG3OcyQT4CXNjp92jj6rQDx_coxclWHnl15pgffx0iU=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@RajeshSukha",
+          "authorChannelId": {
+            "value": "UCS1Z_7JnF_9KUDkXWnIb9cw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-03T19:24:31Z",
+          "updatedAt": "2026-01-03T19:24:31Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "6ilKF0YELQ_MzTloLQQtSW2oce8",
+    "id": "UgyRprwdzZNMS9SUull4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "uMy_qcKa6Ipgrz04AFeLhpcVn5Y",
+        "id": "UgyRprwdzZNMS9SUull4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "First of all the wheels are Gemballa. Second... Take a much less expensive 991.2 and put 10' grand and it'll demolish the new one.",
+          "textOriginal": "First of all the wheels are Gemballa. Second... Take a much less expensive 991.2 and put 10' grand and it'll demolish the new one.",
+          "authorDisplayName": "@marcschulz6689",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Sc6MnkakSbGIzCJ4nEccFBKpogGTuPUPh8EtaLEkhapr9yuAVZfsdp7DyMjFQEe5HZPMQFRsuOs=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@marcschulz6689",
+          "authorChannelId": {
+            "value": "UCkqDqceOS_xNeYTAQzayhmA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-03T18:51:42Z",
+          "updatedAt": "2026-01-03T18:51:42Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "XU_MHzJykp4a-x_mgMQ9QTw3gBc",
+    "id": "Ugz0AjY6tYLt1L5_uuB4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "DSeBEq58Ym_RGhpVJc5aThR_SaY",
+        "id": "Ugz0AjY6tYLt1L5_uuB4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Thats got way more than 725 HP. Thats  to the wheels on an AWD system. More like 800 HP at the crank",
+          "textOriginal": "Thats got way more than 725 HP. Thats  to the wheels on an AWD system. More like 800 HP at the crank",
+          "authorDisplayName": "@forrestbotdorf9961",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nyjjToA1AOtAY-vcwWbNuilI6H_u2mcySA4qdEZVQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@forrestbotdorf9961",
+          "authorChannelId": {
+            "value": "UCRCi2FANTxQlDayIdFlg2Eg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-02T21:03:37Z",
+          "updatedAt": "2026-01-02T21:03:37Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "E9o1Mc-4TVx6HtOKoQKy4UfizFk",
+    "id": "Ugxc8zrE2XZs8h_t13R4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "53fDcg1UUT0MKW_yxuF6FAtxhWU",
+        "id": "Ugxc8zrE2XZs8h_t13R4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "if you cannot even pronunciate the name of the car manufacturer of the car that you are testing perhaps you should consider other career options...🙄",
+          "textOriginal": "if you cannot even pronunciate the name of the car manufacturer of the car that you are testing perhaps you should consider other career options...🙄",
+          "authorDisplayName": "@torstenelias9940",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kb7M9wyItLHZxWdUaL2P0V2RfSxZYIxwJIJe3XGxC3N4s=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@torstenelias9940",
+          "authorChannelId": {
+            "value": "UCTrMmbda2j7Ue3w5Res55Lg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2026-01-02T17:34:00Z",
+          "updatedAt": "2026-01-02T17:34:00Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Y3giS9dXcLLFw4-MwvckMYgxtQs",
+    "id": "UgxLf_P7_ut8VLHZwf14AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "wD-8Y_Y-u0zEDmz-vuJnadRIl5M",
+        "id": "UgxLf_P7_ut8VLHZwf14AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I drove Porsche 911, the 997-2 was my personal favorite.\n\nWhile there is top speed, I prefer curve speed to be the judge. Porsche is unmatched in this regard, nothing comes even close in that category.\n\nAnd yes, Porsche 350, 385 HP feel like magic PC, like you need an exchange value when simply comparing Porsche HP to other sports cars PS, because Porsche HP feels maxed out, somewhat understated or even like cheating: someone miscalculated the real HP.\n\nPorsche HP x 1,609 = other sports cars HP and 3,14 for curve speed.",
+          "textOriginal": "I drove Porsche 911, the 997-2 was my personal favorite.\n\nWhile there is top speed, I prefer curve speed to be the judge. Porsche is unmatched in this regard, nothing comes even close in that category.\n\nAnd yes, Porsche 350, 385 HP feel like magic PC, like you need an exchange value when simply comparing Porsche HP to other sports cars PS, because Porsche HP feels maxed out, somewhat understated or even like cheating: someone miscalculated the real HP.\n\nPorsche HP x 1,609 = other sports cars HP and 3,14 for curve speed.",
+          "authorDisplayName": "@ProBloggerWorld",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l9q8OzVrEthgN_vU5vEEw08-IV5gCZ4Zi12KBt3O8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@ProBloggerWorld",
+          "authorChannelId": {
+            "value": "UCIl_8gp94iZPbHlWvGOS1RA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-30T07:54:32Z",
+          "updatedAt": "2025-12-30T07:54:32Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "uXshqgo5lb_LXn2oU5Mnp-29RIg",
+    "id": "UgxteLwGCwdQJIElqDJ4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "K4EkmaM8vgoG1e84GeIoZu4qW1E",
+        "id": "UgxteLwGCwdQJIElqDJ4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Corvette 1400 hp just blew its doors off in fair roadrace...Porsche  more class!",
+          "textOriginal": "Corvette 1400 hp just blew its doors off in fair roadrace...Porsche  more class!",
+          "authorDisplayName": "@bobbycheatham7506",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mEZHvwRV0keWlWe2UghE8cXAaBJ4oGZBpTbw3Y2PtF4KjhE3lNuL5IOut58OWZDL5bag=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@bobbycheatham7506",
+          "authorChannelId": {
+            "value": "UCIXbRUnA6TIJYrcKbA3vrEw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-30T03:44:50Z",
+          "updatedAt": "2025-12-30T03:44:50Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "hkyeM7LITgsvHv_7r_YroS65mAU",
+    "id": "UgwqYgX6DK1aSBErn-p4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_g2MjFJz3G3bxEootMFkgst7DKA",
+        "id": "UgwqYgX6DK1aSBErn-p4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Jumps the queue at the airport.\nHogs the overtaking lane.\nI'm not sure we'd get on.\n🤣",
+          "textOriginal": "Jumps the queue at the airport.\nHogs the overtaking lane.\nI'm not sure we'd get on.\n🤣",
+          "authorDisplayName": "@WatchingtheWorldBurning",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/qlik2Twz3yZTBbDnum6GV22ZyCmN7_izcgt5fu9Je8w4qjPXQVUza6VyuuKx2O89rpJ9Xzejy7g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@WatchingtheWorldBurning",
+          "authorChannelId": {
+            "value": "UCLNKsx1-95MkjHl9kXZoFCg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-29T20:24:38Z",
+          "updatedAt": "2025-12-29T20:24:38Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "kDbfRGXu5PR7ZnOPvuXg2j5esV8",
+    "id": "UgyaueZyU9M4Hl9UJnt4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "kctc5lcV6Pw9qfZVuaVI2-XtI6k",
+        "id": "UgyaueZyU9M4Hl9UJnt4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I own a 992.2 GTS Targa and have recorded a 2.6-second 0–60 mph time. Paying $90k+ more for a similarly optioned Turbo Cabriolet is difficult to justify when you’re not nearly a full second quicker to 60 mph—which isn’t the case. In real-world driving, especially in typical U.S. conditions from roughly 60 to 100 mph, the performance difference is minimal. With the GTS lineup now this quick, I genuinely wish Porsche luck selling the Turbos..",
+          "textOriginal": "I own a 992.2 GTS Targa and have recorded a 2.6-second 0–60 mph time. Paying $90k+ more for a similarly optioned Turbo Cabriolet is difficult to justify when you’re not nearly a full second quicker to 60 mph—which isn’t the case. In real-world driving, especially in typical U.S. conditions from roughly 60 to 100 mph, the performance difference is minimal. With the GTS lineup now this quick, I genuinely wish Porsche luck selling the Turbos..",
+          "authorDisplayName": "@bkstone3356",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_noWWdAA0R55H4syaosVo1UmyLQR9WRtFeQHEROUVbQGEE=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@bkstone3356",
+          "authorChannelId": {
+            "value": "UC0QDdS2g820Pc4UyN7jVAfg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-29T03:22:57Z",
+          "updatedAt": "2025-12-29T03:22:57Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "pSbQGu7tD_4RUn-uhuNK8ZWIBOA",
+    "id": "UgwQUXpzv57TPdOG-U54AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "jKYXkNk1yY0QlBMOQzeG7Hb9ifk",
+        "id": "UgwQUXpzv57TPdOG-U54AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "when you've achieved the status of YouTube car icon like Matt, Pawsh allows you to make up your own color names for their products such as Turbocite..",
+          "textOriginal": "when you've achieved the status of YouTube car icon like Matt, Pawsh allows you to make up your own color names for their products such as Turbocite..",
+          "authorDisplayName": "@ericthomas8208",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nAmsg-Mlin2f9vPVkk1NPzWQb0xL2Rwx6ZPn_MgwM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@ericthomas8208",
+          "authorChannelId": {
+            "value": "UClFgBAq-DzRtJTtVCyEia8g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-28T21:22:47Z",
+          "updatedAt": "2025-12-28T21:22:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "uIhMVYLRjQsnX_cff0KNJKjj3yY",
+    "id": "Ugzx3G6Ai2yPyJZDJGF4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "RP7sfZwAtsVfYNCx-b1JcdAasDE",
+        "id": "Ugzx3G6Ai2yPyJZDJGF4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "That sounds AWFUL",
+          "textOriginal": "That sounds AWFUL",
+          "authorDisplayName": "@jimsteinway695",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kjHAQ4gN-EFfyShErDRUCGnV0y3oUsC-JXR5uJ5n8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@jimsteinway695",
+          "authorChannelId": {
+            "value": "UC0E1eJQTmtBc5Q6x4b8LDMw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-28T06:20:46Z",
+          "updatedAt": "2025-12-28T06:20:46Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ns505YFDZZ459CoYmYFK5fqgQO8",
+    "id": "Ugy6a-RIXRe6bKmkDlN4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "tVtlrAsb4mgRWbgmQ04T44nA4KM",
+        "id": "Ugy6a-RIXRe6bKmkDlN4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I thought it was turbonite not turbocite",
+          "textOriginal": "I thought it was turbonite not turbocite",
+          "authorDisplayName": "@UncleIansGarage",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/pESyfxSj6SZp70P7gpb6rdr2ia_Ucup9EJumkaBkUsFoJp7g1F6Qfmv_vl5blTlgp-cyevuW=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@UncleIansGarage",
+          "authorChannelId": {
+            "value": "UCUoSV2eH5l0k3npEGDQtTNg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-27T22:42:04Z",
+          "updatedAt": "2025-12-27T22:42:04Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "-kZtJPh1RBdMSkdBD5XHb1JMsrE",
+    "id": "Ugy4-biuTr_EzyP4T3F4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "PMNRo4-g2Cnh8wEEOMWrIR4jpFs",
+        "id": "Ugy4-biuTr_EzyP4T3F4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "A bit like Germany of the 1990 World Cup- my all time favorite national team...nobody was greater than the other.",
+          "textOriginal": "A bit like Germany of the 1990 World Cup- my all time favorite national team...nobody was greater than the other.",
+          "authorDisplayName": "@WarynAbi",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kJhlEM3t2pb2NtbhuYg9NohEIHDgGvHrKPd36oqL8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@WarynAbi",
+          "authorChannelId": {
+            "value": "UCFayqvHSBKLW4wHwWk8MRwQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-27T13:29:44Z",
+          "updatedAt": "2025-12-27T13:29:44Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "1Zio3UBgmXUeg5rRA9qCQfl9EjE",
+    "id": "UgyazrK6s0XJFKUxvw14AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "QQOVQuOmmsx_GWz0ipRMYQRcaG4",
+        "id": "UgyazrK6s0XJFKUxvw14AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Porsche and people who buy porsches for over 100K are out of their minds. It's a porsche, not a ferrari or lambo and it will NEVER be. Boring styling for half million dollars? Good grief. There's nothing exciting about those cars at all.\n\nYou want herpes? You ain't gonna get it with a porsche. You get a Ferrari, McClaren or Lambo... you're getting full blown AIDS whether or not you want it.",
+          "textOriginal": "Porsche and people who buy porsches for over 100K are out of their minds. It's a porsche, not a ferrari or lambo and it will NEVER be. Boring styling for half million dollars? Good grief. There's nothing exciting about those cars at all.\n\nYou want herpes? You ain't gonna get it with a porsche. You get a Ferrari, McClaren or Lambo... you're getting full blown AIDS whether or not you want it.",
+          "authorDisplayName": "@VietTran-xl2ms",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ngb7kHoyXQn3Q05gBrUvXEVcjPN9Ah19SFDNAMIRnesdI=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@VietTran-xl2ms",
+          "authorChannelId": {
+            "value": "UCkQ--w3nPZWOcZWy-HFpZdw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-26T19:12:49Z",
+          "updatedAt": "2025-12-26T19:13:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sGBzXBzIAjP6r25rFP3ON0sOS3U",
+    "id": "UgyqmyV2P3NeSxR2bip4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "YhZSzXKBg0ZrzGIltBF0NDM7iT0",
+        "id": "UgyqmyV2P3NeSxR2bip4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "The Launch of yet another 911 iteration that looks like all its predecessors fills me with the same excitement as McDonald’s launching a new Burger 🤮",
+          "textOriginal": "The Launch of yet another 911 iteration that looks like all its predecessors fills me with the same excitement as McDonald’s launching a new Burger 🤮",
+          "authorDisplayName": "@rocketing47",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lTe30cXgxaIxi5XX7UYFXwkh6Tj3FRjF8zLV3X-g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@rocketing47",
+          "authorChannelId": {
+            "value": "UCmTNX5IvYEj9qcnzIhYEMtg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-24T19:55:49Z",
+          "updatedAt": "2025-12-24T19:55:49Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "jys4wKw03ctcYXu9uZNFVwFRHNo",
+    "id": "Ugxjcz1cViNuPuIxNCR4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "einAy7pVC96VcJjMkATdkgWDi08",
+        "id": "Ugxjcz1cViNuPuIxNCR4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Love the blue paint",
+          "textOriginal": "Love the blue paint",
+          "authorDisplayName": "@CreatingExcellence",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/R5vzyqQc4P72RvW9bsdRPfBX87pzmBU5HnMOQfZSsQFr4v1vgjBUZW9aMp1v7TpfrtFOmCQcXA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@CreatingExcellence",
+          "authorChannelId": {
+            "value": "UCqT0G5olkmA4KFvoS1E4TWA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-24T03:50:45Z",
+          "updatedAt": "2025-12-24T03:50:45Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "d024i9DjOdD55KhSqlaJahwwO1g",
+    "id": "UgxP9QJfAef4GNLhKHd4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "vdJq4gI46bdhEPjuMg1rQl-8lIA",
+        "id": "UgxP9QJfAef4GNLhKHd4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Where is my problem with Porsche’s 911‘s/Carrera, etc and this is coming from a Porsche owner. I had a 2020 Taycan 4S as my daily driver and now have a 2024 Taycan Turbo as my daily driver and absolutely love both cars.  But my issue with Porsche in general, especially the 911/Claire Carrera, etc. is that every year they come out with a “new model“ and it looks exactly the same with very minor changes. If you look at it 2026 compared to like a 2017 there’s minimal differences. And if you look at basic 911 and a 911 S in a 911 turbo and a 911 turbo S there’s very minimal differences there either. I get it if you’re a big Porsche aficionado you will know all the differences in the headlights in the air intakes and the spoilers and where carbon fiber is etc. but for 99.9% of the people I can’t tell a difference between a 911 or a 911 turbo S when I see it on the streets.",
+          "textOriginal": "Where is my problem with Porsche’s 911‘s/Carrera, etc and this is coming from a Porsche owner. I had a 2020 Taycan 4S as my daily driver and now have a 2024 Taycan Turbo as my daily driver and absolutely love both cars.  But my issue with Porsche in general, especially the 911/Claire Carrera, etc. is that every year they come out with a “new model“ and it looks exactly the same with very minor changes. If you look at it 2026 compared to like a 2017 there’s minimal differences. And if you look at basic 911 and a 911 S in a 911 turbo and a 911 turbo S there’s very minimal differences there either. I get it if you’re a big Porsche aficionado you will know all the differences in the headlights in the air intakes and the spoilers and where carbon fiber is etc. but for 99.9% of the people I can’t tell a difference between a 911 or a 911 turbo S when I see it on the streets.",
+          "authorDisplayName": "@chad85100",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/wdycIuugDXily7AQTcIRfJSPZC-jESLCt4P8Az7upMAab7XsI2am4e_YU2dZ4fyYrdenlMUDuPI=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@chad85100",
+          "authorChannelId": {
+            "value": "UC-yQKFbcByBBjwtDs5Bx4qQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-23T22:56:26Z",
+          "updatedAt": "2025-12-23T22:56:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ls-jYM5kwapD-QGwdUwVSc42yao",
+    "id": "UgyIcYSbN40jItjqFHd4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "yoUUkC_2oh0wXrScmEK0kpxFmfQ",
+        "id": "UgyIcYSbN40jItjqFHd4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I don't like this new porshe. It doesn't have the turnkey anymore, not fully petrol etc. Hybrids make cars more expensive. I'd still prefer to buy 992.1 models",
+          "textOriginal": "I don't like this new porshe. It doesn't have the turnkey anymore, not fully petrol etc. Hybrids make cars more expensive. I'd still prefer to buy 992.1 models",
+          "authorDisplayName": "@tsebomoloi3410",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mxsrmKvlRUq8ZUgqfviONXZ8Px8fSOeGoGCiyIhHM0aObY=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@tsebomoloi3410",
+          "authorChannelId": {
+            "value": "UCCmj7We6XcjdYeyU51lPAXg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-23T12:45:54Z",
+          "updatedAt": "2025-12-23T13:06:48Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "COsSqbPB-S4iM4Sbv8-UAWx7gTw",
+    "id": "Ugz9-ytjE04T9muZaap4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "vR2cjiH1FPHikSJUz7C5s4lj6XM",
+        "id": "Ugz9-ytjE04T9muZaap4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Dyno numbers don’t make sense. The car made more wheel HP on the second run, but it estimated less engine HP?",
+          "textOriginal": "Dyno numbers don’t make sense. The car made more wheel HP on the second run, but it estimated less engine HP?",
+          "authorDisplayName": "@Gunsncarsnstuff",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kvZZC8VKcA8Te2Lc8pKY3t5xaAgR2oyW24B3hy1y3NQw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Gunsncarsnstuff",
+          "authorChannelId": {
+            "value": "UC_keOLNtlgb0MVdE9IyPeIA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-23T04:32:47Z",
+          "updatedAt": "2025-12-23T04:32:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "57sl9uN63AyATtS5LJOcBFvf9hw",
+    "id": "UgxrJhw2VS1-R71Qk6J4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "1xeolEcorfYYNaFnTJMo7kXC83Y",
+        "id": "UgxrJhw2VS1-R71Qk6J4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Anyone lucky enough to order this car please, please, please delete the t-hybrid logo on the doors. Leaving it to me in your will is my other wish btw",
+          "textOriginal": "Anyone lucky enough to order this car please, please, please delete the t-hybrid logo on the doors. Leaving it to me in your will is my other wish btw",
+          "authorDisplayName": "@Acanofbeer",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k489dbUjVHiavMXCVBLGMHjuZ1MbGhFgMATRJyE25ZAk1KhQl3s6Hf7REnBDXFhbKjBA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Acanofbeer",
+          "authorChannelId": {
+            "value": "UC_jWo36dp2ULdJhxrxi-7iw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-22T18:00:07Z",
+          "updatedAt": "2025-12-22T18:00:07Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ffp81cjyaCx87Z4Vp1FMTzf-aOk",
+    "id": "Ugz97tJXieuSHlgLwHN4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "0WcU0oLYU0FKV7VKK7z_Z_cKHqw",
+        "id": "Ugz97tJXieuSHlgLwHN4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "It doesn't sound very good, sounds more like a Dyson vacuum cleaner, the performance is outstanding.",
+          "textOriginal": "It doesn't sound very good, sounds more like a Dyson vacuum cleaner, the performance is outstanding.",
+          "authorDisplayName": "@masmainster",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lH3STdbsx4UHpXcE5XwkPTqGEfyv5xF42wy1nECL4=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@masmainster",
+          "authorChannelId": {
+            "value": "UCbBOHW-su5uORX-c_XqsS6A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-22T13:17:22Z",
+          "updatedAt": "2025-12-22T13:29:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "jEZNXtpntzJ8K7OcwHnlxIhqi9Q",
+    "id": "UgzCotj0a2nbJ-FnjPV4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "3x3nC449ts6M45Rp17ttXIoye2E",
+        "id": "UgzCotj0a2nbJ-FnjPV4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "0 -60 mph in 2.4 s is craaaaaaazzziiieee",
+          "textOriginal": "0 -60 mph in 2.4 s is craaaaaaazzziiieee",
+          "authorDisplayName": "@mrnorbotron3308",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lS0FgnOSzjvsbjf8X-TMh0Sqr5P5zM9IrTp20uI9X6FA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@mrnorbotron3308",
+          "authorChannelId": {
+            "value": "UCgfVO7Z5K7fz2f9WnPp9hWQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-21T22:28:01Z",
+          "updatedAt": "2025-12-21T22:28:01Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "An3yJjk7kzeAX9pYaEyl-0nUxik",
+    "id": "UgygveDSuRwKlKRZca54AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "vHAmAcZ4Nf41xHhDsWiGthqhaJg",
+        "id": "UgygveDSuRwKlKRZca54AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "there is this logo and there is that word there. Nonsense. Nobody cares about those. Why the hell would you want to point out that nosense? I dont get it. Its too long.",
+          "textOriginal": "there is this logo and there is that word there. Nonsense. Nobody cares about those. Why the hell would you want to point out that nosense? I dont get it. Its too long.",
+          "authorDisplayName": "@litecashAngel",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/MavOI3IbbWoPPhX8seNX5zULGcWL4Cfz41vITvVD1g3JghiNf0bAMAJzMcZWAHRl9SfLkDIKZl8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@litecashAngel",
+          "authorChannelId": {
+            "value": "UCpIL1GrGXyDtABJmvCtfFgQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-20T17:54:38Z",
+          "updatedAt": "2025-12-20T17:55:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "P1BXaFUFgFVQ4AhgfxvQI1YFby0",
+    "id": "UgwqSLJ3DL4Dfj0Rz0l4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "NqV2pw0yZQE-VoRp4PfsFyMCJpo",
+        "id": "UgwqSLJ3DL4Dfj0Rz0l4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "The New porsche 911 Turbo S",
+          "textOriginal": "The New porsche 911 Turbo S",
+          "authorDisplayName": "@aaronbmoore5636",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mFg-xMSaNHBejQzXJVejzQZdP_CfsUJHTgpLWUEsCtGL0=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@aaronbmoore5636",
+          "authorChannelId": {
+            "value": "UCC0ZiyJPO2vqO0oKxaF33KA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-19T04:59:10Z",
+          "updatedAt": "2025-12-19T04:59:10Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "_ULWT3mFx7_C7XQ0Zh_-BDZOU_Q",
+    "id": "Ugz30KRXxGKV03zJbeJ4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "TY1JCBLC-9gAy6S93LQZXFe0stk",
+        "id": "Ugz30KRXxGKV03zJbeJ4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "🌅",
+          "textOriginal": "🌅",
+          "authorDisplayName": "@SuperchargedInline-Four",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/pEJRnV3yW_ZPveAFkfOZI5eFa15tlaTdjEt-KEAyEC9MQ1ZjpQG_4x2vA1k-a8K9Gq_DvEXV=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@SuperchargedInline-Four",
+          "authorChannelId": {
+            "value": "UCx9xhr-w-s6BXb5zPefAxpg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-12-18T05:39:06Z",
+          "updatedAt": "2025-12-18T05:39:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ucvWalWguX2RlBnjvMDNFcc5j4Y",
+    "id": "UgyziKFN7N-xHp2CnHx4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "GUpn5y0oJIM1ZoNvP4740vcW1-Q",
+        "id": "UgyziKFN7N-xHp2CnHx4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "the blue paint is nice... the wheels are yuk",
+          "textOriginal": "the blue paint is nice... the wheels are yuk",
+          "authorDisplayName": "@seviperix",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kumUAO-vDqQ2LEQWnE98-Xq0zXVpU65GxPkF_IPO9-vNgWNB8GdeOI-ErUh6jDMTWOLQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@seviperix",
+          "authorChannelId": {
+            "value": "UCUT5eGPQ3Tt48jqk-C8TWvA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-18T00:13:47Z",
+          "updatedAt": "2025-12-18T00:13:47Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "APvC76hwhF1ht9TBKh3dSwP22CM",
+    "id": "UgwqrD1gGXnVa9xp-yF4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_txWIXl6YbOuMLVCi6ZxuQvLpJk",
+        "id": "UgwqrD1gGXnVa9xp-yF4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Why did you not run in the airport...",
+          "textOriginal": "Why did you not run in the airport...",
+          "authorDisplayName": "@squarehat",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k2X8MLvkkjBYP3_7rRaLoLyYWv5sxIpUSS91xV3vs=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@squarehat",
+          "authorChannelId": {
+            "value": "UC3zharZq8Ala4-8XW2xaj_g"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-16T09:45:37Z",
+          "updatedAt": "2025-12-16T09:45:37Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "9yq_K9Z5XVGbG5Dp3SNuUo9vOzA",
+    "id": "UgxlrpovGojPx8v8IC54AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "KC5cguPgGSQuf31Ke6sFhLlBe2Q",
+        "id": "UgxlrpovGojPx8v8IC54AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "TurboNite",
+          "textOriginal": "TurboNite",
+          "authorDisplayName": "@charlesdaspermont",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l6KVUUIk_j52et1ErSt4gdAgE9EAnGJGkDNwuHADrQ4A=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@charlesdaspermont",
+          "authorChannelId": {
+            "value": "UCXoRaD6RSx6bOqhsqfTumSQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-16T08:39:46Z",
+          "updatedAt": "2025-12-16T08:39:46Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "m4BQwZGf3mJ4I7r3LEYD6Lwn_f4",
+    "id": "Ugz-NH6llg0NYEfWuIp4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "leqxeU875UEX9dumewqAKfMH6T8",
+        "id": "Ugz-NH6llg0NYEfWuIp4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Still is life threatening as it have no real breaks of metall as for all  models!!!",
+          "textOriginal": "Still is life threatening as it have no real breaks of metall as for all  models!!!",
+          "authorDisplayName": "@Hoert-om4pp",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nWYWEApFtIJntK9shwlEwV9_wRtAHtPupeYUpmVYicAgNsz9R5Ritb9w2bJZCVPccFrA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Hoert-om4pp",
+          "authorChannelId": {
+            "value": "UC8L9zHQ8VNtrtmeDJHDlBiQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-15T16:57:27Z",
+          "updatedAt": "2025-12-15T16:57:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "UYc4t2vGSy6mdE1yiR-4RdEW6-8",
+    "id": "Ugz2fj8Iyjtp6Jwclht4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "CBG9n7uQWS1wga1RE1Jq2gV3o0w",
+        "id": "Ugz2fj8Iyjtp6Jwclht4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "That's what I love about the Porsche design detail! Even the little touch of  Braille on the rear light area, so even blind people know what trim 911 it is ! That's attention to detail!!",
+          "textOriginal": "That's what I love about the Porsche design detail! Even the little touch of  Braille on the rear light area, so even blind people know what trim 911 it is ! That's attention to detail!!",
+          "authorDisplayName": "@haroldconner6265",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kQlqaK9ppQsCrRfxCHCzrdhWfu0qIQwQpiLXEz4Dy9L_U=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@haroldconner6265",
+          "authorChannelId": {
+            "value": "UChqEXnztdWSsYgfEPOONflw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-14T23:03:02Z",
+          "updatedAt": "2025-12-14T23:03:02Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Y6kDvIzr-TrDDoaSeySLRccDn64",
+    "id": "UgyEiM_TMWnZ-x9EpC94AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "epeAPf8rDa0Fh8puzLQaGWO2Jao",
+        "id": "UgyEiM_TMWnZ-x9EpC94AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I like the paint",
+          "textOriginal": "I like the paint",
+          "authorDisplayName": "@gracamwavita2369",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lU-HhSGftcbuUGWplejK5kOnnVlzT-I_qeOg8SVPk=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@gracamwavita2369",
+          "authorChannelId": {
+            "value": "UCPww2u0ad-m9H3knZVAlhfA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-12T04:28:06Z",
+          "updatedAt": "2025-12-12T04:28:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Ek_BbJWczFKOtLfe9s3D4MoekUw",
+    "id": "Ugx5abIIfgZJUheHGwV4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "0vIPmBdBjc_BLIRXEviBDRVnZ5w",
+        "id": "Ugx5abIIfgZJUheHGwV4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "I love how everybody says \"Oh Porsche horsepower is worth more than American horsepower\" when in reality that's not the case what's really going on is Porsches don't weigh much, are rear engine cars most of the time and they are liars about the car's power (which is a sin). If anybody wants an example of a time where Porsche horsepower was worth less than American horsepower it was when the 1020 horsepower Tesla Model S Plaid beat the 1034 horsepower Porsche Taycan Turbo GT. I know the Porsche fanboys who read that last sentence will probably say \"Oh the Taycan Turbo GT with the weissach pack us quicker than a model S Plaid but keep in mind that if you do a slight tire modification you can get a model S Plaid to do the quarter mile almost half a second quicker. In case anybody is wondering according to the internet, the fastest time ever done by a Taycan turbo gt is 9.06 seconds and the fastest time ever done by a model S Plaid is 8.59 seconds. That's what I call a scam (on Porsche's part), because the model S Plaid will cost about 120 grand max where as the Taycan turbp gt's max price is 300 grand. If that's not highway robbery, I don't know what is.",
+          "textOriginal": "I love how everybody says \"Oh Porsche horsepower is worth more than American horsepower\" when in reality that's not the case what's really going on is Porsches don't weigh much, are rear engine cars most of the time and they are liars about the car's power (which is a sin). If anybody wants an example of a time where Porsche horsepower was worth less than American horsepower it was when the 1020 horsepower Tesla Model S Plaid beat the 1034 horsepower Porsche Taycan Turbo GT. I know the Porsche fanboys who read that last sentence will probably say \"Oh the Taycan Turbo GT with the weissach pack us quicker than a model S Plaid but keep in mind that if you do a slight tire modification you can get a model S Plaid to do the quarter mile almost half a second quicker. In case anybody is wondering according to the internet, the fastest time ever done by a Taycan turbo gt is 9.06 seconds and the fastest time ever done by a model S Plaid is 8.59 seconds. That's what I call a scam (on Porsche's part), because the model S Plaid will cost about 120 grand max where as the Taycan turbp gt's max price is 300 grand. If that's not highway robbery, I don't know what is.",
+          "authorDisplayName": "@BilboE-h6t",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nWyPWxkLouOOka6GuHM8izDlE_yXnC5xTup5HP8T7CMeTZxq27qge_MoyYv6lzf2FRtw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@BilboE-h6t",
+          "authorChannelId": {
+            "value": "UCrvEJPiIUvVyWNUG5MVAxlw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-11T17:22:49Z",
+          "updatedAt": "2025-12-11T17:31:04Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "iKBAJIutNoZQdA6e7N7Gvt_Ecf8",
+    "id": "UgyObiKxyG1TCO9kouV4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "p6hkIcBqouiDEzG2PeYC5VFmccc",
+        "id": "UgyObiKxyG1TCO9kouV4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Icl I just optioned one. Starts at 199k. I got it to 270k. 71k in options 😂 safe to safely expensive taste.",
+          "textOriginal": "Icl I just optioned one. Starts at 199k. I got it to 270k. 71k in options 😂 safe to safely expensive taste.",
+          "authorDisplayName": "@Joey_Shapiro",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/rQQz29gL7A4OzsTNcXuzOEHlB2PuLVGWvyVPtvgcedpGgZwbF4f9O2eiAguwm3LK1k7uj_ns8Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Joey_Shapiro",
+          "authorChannelId": {
+            "value": "UCkeNtbiEZXaiWIJzJ2ANgvg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-10T21:48:25Z",
+          "updatedAt": "2025-12-10T21:48:25Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Xwg77x3K0RLv8zi-edRCm29weOU",
+    "id": "UgzNb6qY1pto3s8NXrJ4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "GD1TPUPbJbC2HJ2w7lROmaZthks",
+        "id": "UgzNb6qY1pto3s8NXrJ4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "The new TT-S looks great.",
+          "textOriginal": "The new TT-S looks great.",
+          "authorDisplayName": "@johnjacobs9753",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nOQToUuul6OMgc_chRykaXkkOrXaGXzlJX00yfAAw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@johnjacobs9753",
+          "authorChannelId": {
+            "value": "UCKR6on6I5klpjqIAKwH4CfQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-10T21:33:37Z",
+          "updatedAt": "2025-12-10T21:33:37Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "4Okymm31A1d5Vg_RvpiQ1kmDUvs",
+    "id": "UgwTxZS82ACJS3J0j_94AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "Mp8Hjljjmk4co0PNf2w6o_Do0T0",
+        "id": "UgwTxZS82ACJS3J0j_94AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "7:09 no hiding it. it really sounds like a vaccum cleaner",
+          "textOriginal": "7:09 no hiding it. it really sounds like a vaccum cleaner",
+          "authorDisplayName": "@johnmatthewlow88",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nLE8kETiz209-VmiE4qs3W_RXIIdptvxvt49EJUiY=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@johnmatthewlow88",
+          "authorChannelId": {
+            "value": "UCkRI_HCxEXfnBCch6h85RcA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-09T16:02:27Z",
+          "updatedAt": "2025-12-09T16:02:27Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "oVU7z5g6MIlZb1gT6XT7P8pivN8",
+    "id": "Ugz-P6FOKeLcX8jPFOJ4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ktEZYy_of61WS0OyaFuDaYsplW4",
+        "id": "Ugz-P6FOKeLcX8jPFOJ4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "The turbos now have a yellow extension cord plugged into them looks odd",
+          "textOriginal": "The turbos now have a yellow extension cord plugged into them looks odd",
+          "authorDisplayName": "@mrarcherIII",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mHN-RzD-g2KkPhX6dMTD_KDVRLEcXvbNhqr-xdk-WfnT8=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@mrarcherIII",
+          "authorChannelId": {
+            "value": "UC5P9qY60rZwIVQzdkw59R2w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-08T03:13:39Z",
+          "updatedAt": "2025-12-08T03:13:39Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "_0hG4YTfFQcRBYW3rpjb26ZOqrw",
+    "id": "UgxaKCMfqQBKNuWKnbt4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "TgR2073RClQzmYBjfkW8btGKgc8",
+        "id": "UgxaKCMfqQBKNuWKnbt4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "DON'T listen to these people on here. PDKs are going to break along with DFi Carbon build up behind the intake valves.",
+          "textOriginal": "DON'T listen to these people on here. PDKs are going to break along with DFi Carbon build up behind the intake valves.",
+          "authorDisplayName": "@markuk4599",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n3r06b7L2uhTc77Jc32Tcv_J8FVoh7asbzlCpnD-g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@markuk4599",
+          "authorChannelId": {
+            "value": "UCSC6mBzURTO09ILInbFnQjw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-07T12:22:14Z",
+          "updatedAt": "2025-12-07T12:22:14Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "o8P-MQcc-FvNa4PL4DpRa3iouXY",
+    "id": "UgxvQ_iH-AIhy_Ba6FR4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "baMJxXGwU5m-Vd7YnTB6N9FQGJs",
+        "id": "UgxvQ_iH-AIhy_Ba6FR4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "Boring review, arrogant bloke",
+          "textOriginal": "Boring review, arrogant bloke",
+          "authorDisplayName": "@comfycomfy765",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kJYBqcmgZVb1JDucUCvTvZL5k0xzEhHlQwu46bYrQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@comfycomfy765",
+          "authorChannelId": {
+            "value": "UCMBpr3GOoyM5_TagnIpa_Mw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-06T03:51:38Z",
+          "updatedAt": "2025-12-06T03:51:38Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "LMF2BkI9REwuDKOYi1q1d9oLKrg",
+    "id": "Ugyq0I3Ocyj4LFq509p4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ka-38G5U4p6CYR0d7o_2QPMXda8",
+        "id": "Ugyq0I3Ocyj4LFq509p4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "just buy the xiomi",
+          "textOriginal": "just buy the xiomi",
+          "authorDisplayName": "@Brobiee",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lpPiG1EjpGRZ1Lklp0k2hX1trQmoyf87GxvXE-7QCmYHI=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Brobiee",
+          "authorChannelId": {
+            "value": "UCFLlTW-f9vU8uRhosmFRJ9A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-06T01:16:11Z",
+          "updatedAt": "2025-12-06T01:16:11Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "4hkYtCuavkemPaprwgMwgr3C-I0",
+    "id": "Ugx7EJpLkPt7xe2DkQh4AaABAg",
+    "snippet": {
+      "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+      "videoId": "tFuYO5VAMDE",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "VCJJiHDnJviaW9zyQ8q4NnPt6w0",
+        "id": "Ugx7EJpLkPt7xe2DkQh4AaABAg",
+        "snippet": {
+          "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+          "videoId": "tFuYO5VAMDE",
+          "textDisplay": "711 crank horse power vs. 725 wheel horse is very significant. (If I missed that this dyno converts to crank horsepower, I defer. Still nice the engine makes more power than advertised.)",
+          "textOriginal": "711 crank horse power vs. 725 wheel horse is very significant. (If I missed that this dyno converts to crank horsepower, I defer. Still nice the engine makes more power than advertised.)",
+          "authorDisplayName": "@warren818",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nzVsRzXXkEFHfZ9dOZihDuoFLiGV8Oo-4HBCKMWf0=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@warren818",
+          "authorChannelId": {
+            "value": "UCsnlYgnkfJO8TGM3uOiUb5w"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-12-06T00:40:06Z",
+          "updatedAt": "2025-12-06T00:40:06Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  }
+]

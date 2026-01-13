@@ -35,7 +35,7 @@ from sklearn.metrics import (
 )
 from sklearn.model_selection import train_test_split
 
-from src.preprocessing.clean_text import batch_clean
+from ..src.preprocessing.clean_text import batch_clean
 
 LABEL_MAP = {"negative": 0, "neutral": 1, "positive": 2}
 INVERSE_LABEL_MAP = {v: k for k, v in LABEL_MAP.items()}

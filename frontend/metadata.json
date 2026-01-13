@@ -1,0 +1,6 @@
+
+{
+  "name": "Sentiview ML Viewer",
+  "description": "A high-performance sentiment analysis dashboard for video content, featuring real-time inference simulation and detailed component breakdown.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,68 @@
+{
+  "kind": "youtube#video",
+  "etag": "B-KZ0xIBbSAiXVoG5dzH-s2NzDw",
+  "id": "rng_yUSwrgU",
+  "snippet": {
+    "publishedAt": "2025-10-01T20:41:40Z",
+    "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+    "title": "iPhone 17 Review: No Asterisks!",
+    "description": "This is the best iPhone in years. Which can have an interesting effect on the rest of the lineup...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/rng_yUSwrgU/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/rng_yUSwrgU/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/rng_yUSwrgU/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/rng_yUSwrgU/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/rng_yUSwrgU/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "Marques Brownlee",
+    "tags": [
+      "iPhone 17",
+      "iPhone 17 review",
+      "iPhone 17 vs",
+      "MKBHD"
+    ],
+    "categoryId": "28",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "en",
+    "localized": {
+      "title": "iPhone 17 Review: No Asterisks!",
+      "description": "This is the best iPhone in years. Which can have an interesting effect on the rest of the lineup...\n\nMKBHD Merch: http://shop.MKBHD.com\n\nPlaylist of MKBHD Intro music: https://goo.gl/B3AWV5\n\nPhone provided by Apple for review.\n\n~\nhttp://twitter.com/MKBHD\nhttp://instagram.com/MKBHD\nhttp://facebook.com/MKBHD"
+    },
+    "defaultAudioLanguage": "en"
+  },
+  "contentDetails": {
+    "duration": "PT11M20S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "4929234",
+    "likeCount": "149650",
+    "favoriteCount": "0",
+    "commentCount": "5261"
+  }
+}

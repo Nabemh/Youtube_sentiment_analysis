@@ -31,10 +31,10 @@ from typing import List, Dict, Any
 
 import numpy as np
 
-from inference.predict import predict_sentiment
-MODEL_DIR = Path.cwd() / "models"
+from .predict import predict_sentiment
+MODEL_DIR = Path(__file__).parent.parent / "models"
 
-RAW_DIR = Path.cwd() / "data" / "raw"
+RAW_DIR = Path(__file__).parent.parent / "data" / "raw"
 
 
 # -------------------------- helpers ----------------------------------
@@ -127,8 +127,7 @@ def analyse_video(video_id: str) -> Dict[str, Any]:
         },
     }
     acc = _model_accuracy()
-    if acc is not None:
-        result["model_accuracy"] = round(acc * 100, 2)
+    result["model_accuracy"] = round(acc * 100, 2) if acc is not None else 0.0
     return result
 
 
