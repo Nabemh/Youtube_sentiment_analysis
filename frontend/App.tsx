@@ -35,7 +35,7 @@ const App: React.FC = () => {
       {/* Header */}
       <header className="w-full text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-extrabold bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent mb-4">
-          Sentiview ML
+          Sentiview 
         </h1>
         <p className="text-slate-400 text-lg">
           Deep learning sentiment inference for video content
